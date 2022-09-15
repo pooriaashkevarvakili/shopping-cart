@@ -10,7 +10,6 @@
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.1",
     "bootstrap-vue-3": "^0.3.3",
-    "gitart-vue-dialog": "^2.4.0",
     "sass": "^1.54.9",
     "vue": "^3.2.38",
     "vue-router": "^4.1.5",

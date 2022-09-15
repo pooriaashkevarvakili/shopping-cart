@@ -316,11 +316,6 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-gitart-vue-dialog@^2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/gitart-vue-dialog/-/gitart-vue-dialog-2.4.0.tgz#27029132dfe7f5c6d7535571de82d3511bcbb12b"
-  integrity sha512-ko7q7ftZ8gJ0gOsL6/9NYlSyc1DEI2Ez32kXmRfO64mreYMD6z2U4eporL/lz1kBP9XtgORVBJcvXDeJDL/94g==
-
 glob-parent@~5.1.2:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"

@@ -27,3 +27,6 @@ yarn dev
 ```sh
 yarn build
 ```
+shopping-cart vuejs vuex build
+
+https://shopping-cart-green-rho.vercel.app/
